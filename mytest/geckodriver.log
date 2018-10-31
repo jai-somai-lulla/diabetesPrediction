@@ -1,0 +1,826 @@
+1540984345694	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.73foVFlMRWEv"
+1540984352353	Marionette	INFO	Listening on port 38953
+1540984352496	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540984352649	Marionette	DEBUG	[2147483649] Frame script loaded
+1540984352671	Marionette	DEBUG	[2147483649] Frame script registered
+1540984352876	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540984352911	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1540984353209	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://localhost/My_web/dmw/
+1540984353280	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://localhost/My_web/dmw/
+1540984358047	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for http://localhost/My_web/dmw/
+1540984359693	Marionette	DEBUG	[2147483649] Received DOM event pagehide for http://localhost/My_web/dmw/
+1540984359695	Marionette	DEBUG	[2147483649] Received DOM event unload for http://localhost/My_web/dmw/
+1540984360094	Marionette	INFO	Stopped listening on port 38953
+[Parent 15805, Gecko_IOThread] WARNING: pipe error (69): Connection reset by peer: file /build/firefox-IVlCbR/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1540984373348	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.LOqyBxT3OGcz"
+1540984379226	Marionette	INFO	Listening on port 44281
+1540984379309	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540984379465	Marionette	DEBUG	[2147483649] Frame script loaded
+1540984379534	Marionette	DEBUG	[2147483649] Frame script registered
+1540984379666	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540984379695	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1540984379913	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://localhost/My_web/dmw/
+1540984379967	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://localhost/My_web/dmw/
+1540984380816	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for http://localhost/My_web/dmw/
+1540984381661	Marionette	DEBUG	[2147483649] Received DOM event pagehide for http://localhost/My_web/dmw/
+1540984381664	Marionette	DEBUG	[2147483649] Received DOM event unload for http://localhost/My_web/dmw/
+1540984382035	Marionette	INFO	Stopped listening on port 44281
+[Parent 16037, Gecko_IOThread] WARNING: pipe error (75): Connection reset by peer: file /build/firefox-IVlCbR/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1540984594742	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.nLd8IuOOnoao"
+1540984600824	Marionette	INFO	Listening on port 41095
+1540984600918	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540984601084	Marionette	DEBUG	[2147483649] Frame script loaded
+1540984601108	Marionette	DEBUG	[2147483649] Frame script registered
+1540984601286	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540984601354	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1540984601545	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://localhost/My_web/dmw/
+1540984601587	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://localhost/My_web/dmw/
+1540984602506	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for http://localhost/My_web/dmw/
+1540984603316	Marionette	DEBUG	[2147483649] Received DOM event pagehide for http://localhost/My_web/dmw/
+1540984603317	Marionette	DEBUG	[2147483649] Received DOM event unload for http://localhost/My_web/dmw/
+1540984603378	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://localhost/My_web/dmw/
+1540984603395	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://localhost/My_web/dmw/
+1540984603660	Marionette	INFO	Stopped listening on port 41095
+[Parent 16328, Gecko_IOThread] WARNING: pipe error (75): Connection reset by peer: file /build/firefox-IVlCbR/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1540984618843	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.7ImlRIgSBUkS"
+1540984624807	Marionette	INFO	Listening on port 42899
+1540984624911	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540984625063	Marionette	DEBUG	[2147483649] Frame script loaded
+1540984625106	Marionette	DEBUG	[2147483649] Frame script registered
+1540984625177	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540984625267	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1540984625490	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://localhost/My_web/dmw/
+1540984625523	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://localhost/My_web/dmw/
+1540984626408	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for http://localhost/My_web/dmw/
+1540984627244	Marionette	DEBUG	[2147483649] Received DOM event pagehide for http://localhost/My_web/dmw/
+1540984627247	Marionette	DEBUG	[2147483649] Received DOM event unload for http://localhost/My_web/dmw/
+1540984627309	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://localhost/My_web/dmw/
+1540984627324	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://localhost/My_web/dmw/
+1540984627585	Marionette	INFO	Stopped listening on port 42899
+[Parent 16548, Gecko_IOThread] WARNING: pipe error (75): Connection reset by peer: file /build/firefox-IVlCbR/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1540984663244	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.KHXyyLd9Cap1"
+1540984669324	Marionette	INFO	Listening on port 36741
+1540984669407	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540984669559	Marionette	DEBUG	[2147483649] Frame script loaded
+1540984669562	Marionette	DEBUG	[2147483649] Frame script registered
+1540984669686	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540984669759	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1540984670127	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://localhost/My_web/dmw/
+1540984670155	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://localhost/My_web/dmw/
+1540984671196	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for http://localhost/My_web/dmw/
+1540984672035	Marionette	DEBUG	[2147483649] Received DOM event pagehide for http://localhost/My_web/dmw/
+1540984672036	Marionette	DEBUG	[2147483649] Received DOM event unload for http://localhost/My_web/dmw/
+JavaScript error: http://maxcdn.bootstrapcdn.com/bootstrap/3.3.0/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+1540984672821	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://localhost/My_web/dmw/
+1540984672831	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://localhost/My_web/dmw/
+1540984673050	Marionette	INFO	Stopped listening on port 36741
+[Parent 16756, Gecko_IOThread] WARNING: pipe error (77): Connection reset by peer: file /build/firefox-IVlCbR/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1540984726160	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.fqhWl9Mhudjw"
+1540984732003	Marionette	INFO	Listening on port 35071
+1540984732098	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540984732241	Marionette	DEBUG	[2147483649] Frame script loaded
+1540984732274	Marionette	DEBUG	[2147483649] Frame script registered
+1540984732439	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540984732485	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+JavaScript error: http://maxcdn.bootstrapcdn.com/bootstrap/3.3.0/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+1540984733655	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://localhost/My_web/dmw/
+1540984733673	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://localhost/My_web/dmw/
+1540984734557	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for http://localhost/My_web/dmw/
+1540984735419	Marionette	DEBUG	[2147483649] Received DOM event pagehide for http://localhost/My_web/dmw/
+1540984735422	Marionette	DEBUG	[2147483649] Received DOM event unload for http://localhost/My_web/dmw/
+JavaScript error: http://maxcdn.bootstrapcdn.com/bootstrap/3.3.0/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+1540984735580	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://localhost/My_web/dmw/
+1540984735589	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://localhost/My_web/dmw/
+1540984735810	Marionette	INFO	Stopped listening on port 35071
+[Parent 17075, Gecko_IOThread] WARNING: pipe error (77): Connection reset by peer: file /build/firefox-IVlCbR/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1540984924535	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.5Q3gdcxnwgqH"
+1540984930210	Marionette	INFO	Listening on port 37593
+1540984930322	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540984930484	Marionette	DEBUG	[2147483649] Frame script loaded
+1540984930491	Marionette	DEBUG	[2147483649] Frame script registered
+1540984930589	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540984930716	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+JavaScript error: http://maxcdn.bootstrapcdn.com/bootstrap/3.3.0/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+1540984932022	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://localhost/My_web/dmw/
+1540984932039	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://localhost/My_web/dmw/
+1540984932929	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for http://localhost/My_web/dmw/
+1540984933737	Marionette	DEBUG	[2147483649] Received DOM event pagehide for http://localhost/My_web/dmw/
+1540984933740	Marionette	DEBUG	[2147483649] Received DOM event unload for http://localhost/My_web/dmw/
+JavaScript error: http://maxcdn.bootstrapcdn.com/bootstrap/3.3.0/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+1540984933884	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://localhost/My_web/dmw/
+1540984933903	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://localhost/My_web/dmw/
+1540985004476	Marionette	DEBUG	[4294967297] Frame script loaded
+1540985004479	Marionette	DEBUG	[4294967297] Frame script registered
+1540985004572	Marionette	DEBUG	[4294967299] Frame script loaded
+1540985004575	Marionette	DEBUG	[4294967299] Frame script registered
+1540985005625	Marionette	DEBUG	[4294967303] Frame script loaded
+1540985005628	Marionette	DEBUG	[4294967303] Frame script registered
+1540985006369	Marionette	DEBUG	[4294967306] Frame script loaded
+1540985006371	Marionette	DEBUG	[4294967306] Frame script registered
+1540985006379	Marionette	DEBUG	[4294967307] Frame script loaded
+1540985006381	Marionette	DEBUG	[4294967307] Frame script registered
+1540985007362	Marionette	DEBUG	[4294967312] Frame script loaded
+1540985007400	Marionette	DEBUG	[4294967312] Frame script registered
+1540985007483	Marionette	DEBUG	[4294967314] Frame script loaded
+1540985007485	Marionette	DEBUG	[4294967314] Frame script registered
+[Parent 17676, Gecko_IOThread] WARNING: pipe error (86): Connection reset by peer: file /build/firefox-IVlCbR/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1540985010030	Marionette	INFO	Stopped listening on port 37593
+1540985824110	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.IWjfIOawmKQG"
+1540985829942	Marionette	INFO	Listening on port 33997
+1540985830053	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540985830197	Marionette	DEBUG	[2147483649] Frame script loaded
+1540985830200	Marionette	DEBUG	[2147483649] Frame script registered
+1540985830339	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540985830448	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+JavaScript error: http://maxcdn.bootstrapcdn.com/bootstrap/3.3.0/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+1540985832710	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://localhost/My_web/dmw/
+1540985832732	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://localhost/My_web/dmw/
+1540985833409	Marionette	INFO	Stopped listening on port 33997
+[Parent 18226, Gecko_IOThread] WARNING: pipe error (73): Connection reset by peer: file /build/firefox-IVlCbR/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1540985882148	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.06oVIPPA5Wfb"
+1540985887977	Marionette	INFO	Listening on port 42889
+1540985888088	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540985888240	Marionette	DEBUG	[2147483649] Frame script loaded
+1540985888248	Marionette	DEBUG	[2147483649] Frame script registered
+1540985888375	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540985888436	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+JavaScript error: http://maxcdn.bootstrapcdn.com/bootstrap/3.3.0/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+1540985890030	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://localhost/My_web/dmw/
+1540985890045	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://localhost/My_web/dmw/
+1540985947728	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.rNIakcO8G4pX"
+1540985953644	Marionette	INFO	Listening on port 43129
+1540985953692	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540985953860	Marionette	DEBUG	[2147483649] Frame script loaded
+1540985953878	Marionette	DEBUG	[2147483649] Frame script registered
+1540985954033	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540985954082	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+JavaScript error: http://maxcdn.bootstrapcdn.com/bootstrap/3.3.0/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+1540985958937	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://localhost/My_web/dmw/
+1540985958961	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://localhost/My_web/dmw/
+1540985976111	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.2oDKXnWaYsgb"
+1540985981868	Marionette	INFO	Listening on port 37065
+1540985981962	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540985982123	Marionette	DEBUG	[2147483649] Frame script loaded
+1540985982145	Marionette	DEBUG	[2147483649] Frame script registered
+1540985982224	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540985982293	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+JavaScript error: http://maxcdn.bootstrapcdn.com/bootstrap/3.3.0/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+1540985984345	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://localhost/My_web/dmw/
+1540985984363	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://localhost/My_web/dmw/
+1540986005775	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.HyxgJ1NA4msy"
+1540986011500	Marionette	INFO	Listening on port 32803
+1540986011640	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540986011799	Marionette	DEBUG	[2147483649] Frame script loaded
+1540986011808	Marionette	DEBUG	[2147483649] Frame script registered
+1540986011973	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540986012031	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+JavaScript error: http://maxcdn.bootstrapcdn.com/bootstrap/3.3.0/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+1540986014518	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://localhost/My_web/dmw/
+1540986014574	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://localhost/My_web/dmw/
+1540986015466	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for http://localhost/My_web/dmw/
+1540986016342	Marionette	DEBUG	[2147483649] Received DOM event pagehide for http://localhost/My_web/dmw/
+1540986016344	Marionette	DEBUG	[2147483649] Received DOM event unload for http://localhost/My_web/dmw/
+JavaScript error: http://maxcdn.bootstrapcdn.com/bootstrap/3.3.0/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+1540986016496	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://localhost/My_web/dmw/
+1540986016505	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://localhost/My_web/dmw/
+1540986016725	Marionette	INFO	Stopped listening on port 32803
+[Parent 19094, Gecko_IOThread] WARNING: pipe error (76): Connection reset by peer: file /build/firefox-IVlCbR/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Parent 18899, Gecko_IOThread] WARNING: pipe error (85): Connection reset by peer: file /build/firefox-IVlCbR/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1540986059848	Marionette	INFO	Stopped listening on port 37065
+[Parent 18437, Gecko_IOThread] WARNING: pipe error (75): Connection reset by peer: file /build/firefox-IVlCbR/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1540986061979	Marionette	INFO	Stopped listening on port 42889
+[Parent 18698, Gecko_IOThread] WARNING: pipe error (73): Connection reset by peer: file /build/firefox-IVlCbR/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1540986063966	Marionette	INFO	Stopped listening on port 43129
+1540986551756	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.pLID3hp5l5U9"
+1540986557475	Marionette	INFO	Listening on port 46349
+1540986557508	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540986557678	Marionette	DEBUG	[2147483649] Frame script loaded
+1540986557706	Marionette	DEBUG	[2147483649] Frame script registered
+1540986557803	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540986557910	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1540986558125	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://localhost/My_web/dmw/
+1540986558146	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://localhost/My_web/dmw/
+1540986558400	Marionette	INFO	Stopped listening on port 46349
+1540986558510	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIPrefBranch.removeObserver]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://activity-stream/lib/ActivityStreamPrefs.jsm :: ignoreBranch :: line 29"  data: no] Stack trace: ignoreBranch()@resource://activity-stream/lib/ActivityStreamPrefs.jsm:29
+uninit()@resource://activity-stream/lib/Store.jsm:172
+uninit()@resource://activity-stream/lib/ActivityStream.jsm:363
+uninit()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:86
+shutdown()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:194
+callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:1592
+_shutdown()@resource://gre/modules/addons/XPIProvider.jsm:1728
+observe()@resource://gre/modules/AsyncShutdown.jsm:541
+GeckoDriver.prototype.quit()@driver.js:3319
+despatch()@server.js:297
+execute()@server.js:271
+onPacket/<()@server.js:246
+onPacket()@server.js:245
+_onJSONObjectReady/<()@transport.js:500
+[Parent 19607, Gecko_IOThread] WARNING: pipe error (73): Connection reset by peer: file /build/firefox-IVlCbR/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+
+###!!! [Parent][DispatchAsyncMessage] Error: PBackgroundIDBFactory::Msg_PBackgroundIDBFactoryRequestConstructor Value error: message was deserialized, but contained an illegal value
+
+
+###!!! [Parent][DispatchAsyncMessage] Error: PBackgroundIDBFactory::Msg_PBackgroundIDBFactoryRequestConstructor Value error: message was deserialized, but contained an illegal value
+
+1540986733601	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.oB247aBMVfGv"
+1540986739447	Marionette	INFO	Listening on port 34755
+1540986739605	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540986739761	Marionette	DEBUG	[2147483649] Frame script loaded
+1540986739809	Marionette	DEBUG	[2147483649] Frame script registered
+1540986739868	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540986739919	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+JavaScript error: http://maxcdn.bootstrapcdn.com/bootstrap/3.3.0/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+1540986741106	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://localhost/My_web/dmw/
+1540986741184	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://localhost/My_web/dmw/
+1540986742336	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1540986742479	Marionette	INFO	Stopped listening on port 34755
+[Parent 19981, Gecko_IOThread] WARNING: pipe error (72): Connection reset by peer: file /build/firefox-IVlCbR/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1540987124517	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.rSwIeTeqClEL"
+1540987130266	Marionette	INFO	Listening on port 38171
+1540987130365	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540987130522	Marionette	DEBUG	[2147483649] Frame script loaded
+1540987130542	Marionette	DEBUG	[2147483649] Frame script registered
+1540987130621	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540987130672	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+JavaScript error: http://maxcdn.bootstrapcdn.com/bootstrap/3.3.0/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+1540987131862	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://localhost/My_web/dmw/
+1540987131918	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://localhost/My_web/dmw/
+1540987132810	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for http://localhost/My_web/dmw/
+1540987133618	Marionette	DEBUG	[2147483649] Received DOM event pagehide for http://localhost/My_web/dmw/
+1540987133621	Marionette	DEBUG	[2147483649] Received DOM event unload for http://localhost/My_web/dmw/
+JavaScript error: http://maxcdn.bootstrapcdn.com/bootstrap/3.3.0/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+1540987133775	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://localhost/My_web/dmw/
+1540987133797	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://localhost/My_web/dmw/
+1540987134671	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for http://localhost/My_web/dmw/
+1540987135440	Marionette	DEBUG	[2147483649] Received DOM event pagehide for http://localhost/My_web/dmw/
+1540987135442	Marionette	DEBUG	[2147483649] Received DOM event unload for http://localhost/My_web/dmw/
+JavaScript error: http://maxcdn.bootstrapcdn.com/bootstrap/3.3.0/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+1540987135592	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://localhost/My_web/dmw/
+1540987135609	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://localhost/My_web/dmw/
+1540987136690	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for http://localhost/My_web/dmw/
+1540987137531	Marionette	DEBUG	[2147483649] Received DOM event pagehide for http://localhost/My_web/dmw/
+1540987137535	Marionette	DEBUG	[2147483649] Received DOM event unload for http://localhost/My_web/dmw/
+JavaScript error: http://maxcdn.bootstrapcdn.com/bootstrap/3.3.0/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+1540987137696	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://localhost/My_web/dmw/
+1540987137719	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://localhost/My_web/dmw/
+1540987138649	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for http://localhost/My_web/dmw/
+1540987139409	Marionette	DEBUG	[2147483649] Received DOM event pagehide for http://localhost/My_web/dmw/
+1540987139413	Marionette	DEBUG	[2147483649] Received DOM event unload for http://localhost/My_web/dmw/
+JavaScript error: http://maxcdn.bootstrapcdn.com/bootstrap/3.3.0/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+1540987139545	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://localhost/My_web/dmw/
+1540987139554	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://localhost/My_web/dmw/
+1540987140499	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for http://localhost/My_web/dmw/
+1540987141335	Marionette	DEBUG	[2147483649] Received DOM event pagehide for http://localhost/My_web/dmw/
+1540987141339	Marionette	DEBUG	[2147483649] Received DOM event unload for http://localhost/My_web/dmw/
+JavaScript error: http://maxcdn.bootstrapcdn.com/bootstrap/3.3.0/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+1540987141464	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://localhost/My_web/dmw/
+1540987141475	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://localhost/My_web/dmw/
+1540987142428	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for http://localhost/My_web/dmw/
+1540987143213	Marionette	DEBUG	[2147483649] Received DOM event pagehide for http://localhost/My_web/dmw/
+1540987143219	Marionette	DEBUG	[2147483649] Received DOM event unload for http://localhost/My_web/dmw/
+JavaScript error: http://maxcdn.bootstrapcdn.com/bootstrap/3.3.0/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+1540987143351	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://localhost/My_web/dmw/
+1540987143366	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://localhost/My_web/dmw/
+1540987143586	Marionette	INFO	Stopped listening on port 38171
+[Parent 20261, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-IVlCbR/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1540987318190	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.QNSpts8a4bmp"
+1540987324122	Marionette	INFO	Listening on port 34039
+1540987324141	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540987324336	Marionette	DEBUG	[2147483649] Frame script loaded
+1540987324340	Marionette	DEBUG	[2147483649] Frame script registered
+1540987324429	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540987324470	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+JavaScript error: http://maxcdn.bootstrapcdn.com/bootstrap/3.3.0/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+1540987325827	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://localhost/My_web/dmw/
+1540987325844	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://localhost/My_web/dmw/
+1540987326728	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for http://localhost/My_web/dmw/
+1540987327592	Marionette	DEBUG	[2147483649] Received DOM event pagehide for http://localhost/My_web/dmw/
+1540987327594	Marionette	DEBUG	[2147483649] Received DOM event unload for http://localhost/My_web/dmw/
+JavaScript error: http://maxcdn.bootstrapcdn.com/bootstrap/3.3.0/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+1540987327757	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://localhost/My_web/dmw/
+1540987327769	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://localhost/My_web/dmw/
+1540987328739	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for http://localhost/My_web/dmw/
+1540987329558	Marionette	DEBUG	[2147483649] Received DOM event pagehide for http://localhost/My_web/dmw/
+1540987329560	Marionette	DEBUG	[2147483649] Received DOM event unload for http://localhost/My_web/dmw/
+JavaScript error: http://maxcdn.bootstrapcdn.com/bootstrap/3.3.0/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+1540987329703	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://localhost/My_web/dmw/
+1540987329726	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://localhost/My_web/dmw/
+1540987331060	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1540987332043	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for http://localhost/My_web/dmw/
+1540987332811	Marionette	DEBUG	[2147483649] Received DOM event pagehide for http://localhost/My_web/dmw/
+1540987332816	Marionette	DEBUG	[2147483649] Received DOM event unload for http://localhost/My_web/dmw/
+JavaScript error: http://maxcdn.bootstrapcdn.com/bootstrap/3.3.0/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+1540987332963	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://localhost/My_web/dmw/
+1540987332978	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://localhost/My_web/dmw/
+1540987333885	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for http://localhost/My_web/dmw/
+1540987334716	Marionette	DEBUG	[2147483649] Received DOM event pagehide for http://localhost/My_web/dmw/
+1540987334719	Marionette	DEBUG	[2147483649] Received DOM event unload for http://localhost/My_web/dmw/
+JavaScript error: http://maxcdn.bootstrapcdn.com/bootstrap/3.3.0/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+1540987334843	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://localhost/My_web/dmw/
+1540987334864	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://localhost/My_web/dmw/
+1540987335876	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for http://localhost/My_web/dmw/
+1540987336690	Marionette	DEBUG	[2147483649] Received DOM event pagehide for http://localhost/My_web/dmw/
+1540987336693	Marionette	DEBUG	[2147483649] Received DOM event unload for http://localhost/My_web/dmw/
+JavaScript error: http://maxcdn.bootstrapcdn.com/bootstrap/3.3.0/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+1540987336836	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://localhost/My_web/dmw/
+1540987336853	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://localhost/My_web/dmw/
+1540987337058	Marionette	INFO	Stopped listening on port 34039
+[Parent 20559, Gecko_IOThread] WARNING: pipe error (75): Connection reset by peer: file /build/firefox-IVlCbR/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1540988517823	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.uFovaR1Desol"
+1540988523671	Marionette	INFO	Listening on port 45593
+1540988523767	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540988523947	Marionette	DEBUG	[2147483649] Frame script loaded
+1540988523972	Marionette	DEBUG	[2147483649] Frame script registered
+1540988524071	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540988524262	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1540988524294	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://localhost/My_web/dmw/
+1540988524397	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://localhost/My_web/dmw/
+1540988529573	Marionette	INFO	Stopped listening on port 45593
+[Parent 21107, Gecko_IOThread] WARNING: pipe error (73): Connection reset by peer: file /build/firefox-IVlCbR/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1540988554585	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.HS4QqUyTRIys"
+1540988560527	Marionette	INFO	Listening on port 35865
+1540988560625	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540988560770	Marionette	DEBUG	[2147483649] Frame script loaded
+1540988560819	Marionette	DEBUG	[2147483649] Frame script registered
+1540988560900	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540988560943	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+JavaScript error: http://maxcdn.bootstrapcdn.com/bootstrap/3.3.0/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+1540988563510	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://localhost/My_web/dmw/
+1540988563565	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://localhost/My_web/dmw/
+1540988564467	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for http://localhost/My_web/dmw/
+1540988565242	Marionette	DEBUG	[2147483649] Received DOM event pagehide for http://localhost/My_web/dmw/
+1540988565246	Marionette	DEBUG	[2147483649] Received DOM event unload for http://localhost/My_web/dmw/
+JavaScript error: http://maxcdn.bootstrapcdn.com/bootstrap/3.3.0/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+1540988565391	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://localhost/My_web/dmw/
+1540988565401	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://localhost/My_web/dmw/
+1540988565606	Marionette	INFO	Stopped listening on port 35865
+[Parent 21306, Gecko_IOThread] WARNING: pipe error (76): Connection reset by peer: file /build/firefox-IVlCbR/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1540988622630	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Sjiw36SS2frR"
+1540988628472	Marionette	INFO	Listening on port 34627
+1540988628577	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540988628725	Marionette	DEBUG	[2147483649] Frame script loaded
+1540988628727	Marionette	DEBUG	[2147483649] Frame script registered
+1540988628892	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540988629034	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+JavaScript error: http://maxcdn.bootstrapcdn.com/bootstrap/3.3.0/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+1540988630201	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://localhost/My_web/dmw/
+1540988630218	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://localhost/My_web/dmw/
+1540988631140	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for http://localhost/My_web/dmw/
+1540988631909	Marionette	DEBUG	[2147483649] Received DOM event pagehide for http://localhost/My_web/dmw/
+1540988631911	Marionette	DEBUG	[2147483649] Received DOM event unload for http://localhost/My_web/dmw/
+JavaScript error: http://maxcdn.bootstrapcdn.com/bootstrap/3.3.0/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+1540988632057	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://localhost/My_web/dmw/
+1540988632066	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://localhost/My_web/dmw/
+1540988632279	Marionette	INFO	Stopped listening on port 34627
+[Parent 21527, Gecko_IOThread] WARNING: pipe error (76): Connection reset by peer: file /build/firefox-IVlCbR/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1540988834322	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.APryQ6sdC6v3"
+1540988840028	Marionette	INFO	Listening on port 35325
+1540988840075	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540988840243	Marionette	DEBUG	[2147483649] Frame script loaded
+1540988840253	Marionette	DEBUG	[2147483649] Frame script registered
+1540988840353	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540988840514	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+JavaScript error: http://maxcdn.bootstrapcdn.com/bootstrap/3.3.0/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+1540988841716	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://localhost/My_web/dmw/
+1540988841732	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://localhost/My_web/dmw/
+1540988842620	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for http://localhost/My_web/dmw/
+1540988843389	Marionette	DEBUG	[2147483649] Received DOM event pagehide for http://localhost/My_web/dmw/
+1540988843391	Marionette	DEBUG	[2147483649] Received DOM event unload for http://localhost/My_web/dmw/
+JavaScript error: http://maxcdn.bootstrapcdn.com/bootstrap/3.3.0/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+1540988843557	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://localhost/My_web/dmw/
+1540988843567	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://localhost/My_web/dmw/
+1540988853820	Marionette	INFO	Stopped listening on port 35325
+[Parent 21762, Gecko_IOThread] WARNING: pipe error (73): Connection reset by peer: file /build/firefox-IVlCbR/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1540988953107	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.RgZ6EakLB1Nv"
+1540988958836	Marionette	INFO	Listening on port 36647
+1540988958972	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540988959134	Marionette	DEBUG	[2147483649] Frame script loaded
+1540988959140	Marionette	DEBUG	[2147483649] Frame script registered
+1540988959300	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540988959435	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+JavaScript error: http://maxcdn.bootstrapcdn.com/bootstrap/3.3.0/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+1540988960589	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://localhost/My_web/dmw/
+1540988960604	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://localhost/My_web/dmw/
+1540988961513	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for http://localhost/My_web/dmw/
+1540988962284	Marionette	DEBUG	[2147483649] Received DOM event pagehide for http://localhost/My_web/dmw/
+1540988962286	Marionette	DEBUG	[2147483649] Received DOM event unload for http://localhost/My_web/dmw/
+JavaScript error: http://maxcdn.bootstrapcdn.com/bootstrap/3.3.0/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+1540988962426	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://localhost/My_web/dmw/
+1540988962445	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://localhost/My_web/dmw/
+1540988972671	Marionette	INFO	Stopped listening on port 36647
+[Parent 21983, Gecko_IOThread] WARNING: pipe error (75): Connection reset by peer: file /build/firefox-IVlCbR/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1540988991545	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.beT1jBGtaikP"
+1540988997267	Marionette	INFO	Listening on port 41749
+1540988997421	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540988997597	Marionette	DEBUG	[2147483649] Frame script loaded
+1540988997645	Marionette	DEBUG	[2147483649] Frame script registered
+1540988997740	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540988997785	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+JavaScript error: http://maxcdn.bootstrapcdn.com/bootstrap/3.3.0/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+1540988999009	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://localhost/My_web/dmw/
+1540988999027	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://localhost/My_web/dmw/
+1540988999881	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for http://localhost/My_web/dmw/
+1540989000667	Marionette	DEBUG	[2147483649] Received DOM event pagehide for http://localhost/My_web/dmw/
+1540989000669	Marionette	DEBUG	[2147483649] Received DOM event unload for http://localhost/My_web/dmw/
+JavaScript error: http://maxcdn.bootstrapcdn.com/bootstrap/3.3.0/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+1540989000816	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://localhost/My_web/dmw/
+1540989000834	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://localhost/My_web/dmw/
+1540989011074	Marionette	INFO	Stopped listening on port 41749
+[Parent 22186, Gecko_IOThread] WARNING: pipe error (69): Connection reset by peer: file /build/firefox-IVlCbR/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1540989490432	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.DOsTNDdjaYw7"
+1540989496275	Marionette	INFO	Listening on port 35149
+1540989496435	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540989496583	Marionette	DEBUG	[2147483649] Frame script loaded
+1540989496586	Marionette	DEBUG	[2147483649] Frame script registered
+1540989496740	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540989496785	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+JavaScript error: http://maxcdn.bootstrapcdn.com/bootstrap/3.3.0/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+1540989497977	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://localhost/My_web/dmw/
+1540989498006	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://localhost/My_web/dmw/
+1540989498947	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for http://localhost/My_web/dmw/
+1540989499733	Marionette	DEBUG	[2147483649] Received DOM event pagehide for http://localhost/My_web/dmw/
+1540989499735	Marionette	DEBUG	[2147483649] Received DOM event unload for http://localhost/My_web/dmw/
+JavaScript error: http://maxcdn.bootstrapcdn.com/bootstrap/3.3.0/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+1540989499884	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://localhost/My_web/dmw/
+1540989499894	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://localhost/My_web/dmw/
+1540989510126	Marionette	INFO	Stopped listening on port 35149
+[Parent 22471, Gecko_IOThread] WARNING: pipe error (73): Connection reset by peer: file /build/firefox-IVlCbR/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1540989581713	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.KBLm5sfgxaYi"
+1540989587575	Marionette	INFO	Listening on port 41519
+1540989587703	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540989587859	Marionette	DEBUG	[2147483649] Frame script loaded
+1540989587870	Marionette	DEBUG	[2147483649] Frame script registered
+1540989588063	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540989588100	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+JavaScript error: http://maxcdn.bootstrapcdn.com/bootstrap/3.3.0/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+1540989589457	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://localhost/My_web/dmw/
+1540989589476	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://localhost/My_web/dmw/
+1540989590347	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for http://localhost/My_web/dmw/
+1540989591153	Marionette	DEBUG	[2147483649] Received DOM event pagehide for http://localhost/My_web/dmw/
+1540989591155	Marionette	DEBUG	[2147483649] Received DOM event unload for http://localhost/My_web/dmw/
+JavaScript error: http://maxcdn.bootstrapcdn.com/bootstrap/3.3.0/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+1540989591300	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://localhost/My_web/dmw/
+1540989591311	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://localhost/My_web/dmw/
+1540989601542	Marionette	INFO	Stopped listening on port 41519
+[Parent 22755, Gecko_IOThread] WARNING: pipe error (75): Connection reset by peer: file /build/firefox-IVlCbR/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1540989969993	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.ogj6w5oTSP5Z"
+1540989975711	Marionette	INFO	Listening on port 38743
+1540989975756	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540989975915	Marionette	DEBUG	[2147483649] Frame script loaded
+1540989975932	Marionette	DEBUG	[2147483649] Frame script registered
+1540989976031	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540989976110	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+JavaScript error: http://maxcdn.bootstrapcdn.com/bootstrap/3.3.0/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+1540989977341	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://localhost/My_web/dmw/
+1540989977360	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://localhost/My_web/dmw/
+1540989978292	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for http://localhost/My_web/dmw/
+1540989979103	Marionette	DEBUG	[2147483649] Received DOM event pagehide for http://localhost/My_web/dmw/
+1540989979107	Marionette	DEBUG	[2147483649] Received DOM event unload for http://localhost/My_web/dmw/
+JavaScript error: http://maxcdn.bootstrapcdn.com/bootstrap/3.3.0/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+1540989979258	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://localhost/My_web/dmw/
+1540989979281	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://localhost/My_web/dmw/
+1540989979492	Marionette	INFO	Stopped listening on port 38743
+[Parent 23020, Gecko_IOThread] WARNING: pipe error (77): Connection reset by peer: file /build/firefox-IVlCbR/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1540991353199	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.filbWK1emo8C"
+1540991358933	Marionette	INFO	Listening on port 38901
+1540991359051	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540991359215	Marionette	DEBUG	[2147483649] Frame script loaded
+1540991359220	Marionette	DEBUG	[2147483649] Frame script registered
+1540991359337	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540991359474	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+JavaScript error: http://maxcdn.bootstrapcdn.com/bootstrap/3.3.0/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+1540991364907	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://localhost/My_web/dmw/
+1540991364927	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://localhost/My_web/dmw/
+1540991365920	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for http://localhost/My_web/dmw/
+1540991366745	Marionette	DEBUG	[2147483649] Received DOM event pagehide for http://localhost/My_web/dmw/
+1540991366747	Marionette	DEBUG	[2147483649] Received DOM event unload for http://localhost/My_web/dmw/
+JavaScript error: http://maxcdn.bootstrapcdn.com/bootstrap/3.3.0/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+1540991366912	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://localhost/My_web/dmw/
+1540991366940	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://localhost/My_web/dmw/
+1540991367161	Marionette	INFO	Stopped listening on port 38901
+[Parent 23509, Gecko_IOThread] WARNING: pipe error (76): Connection reset by peer: file /build/firefox-IVlCbR/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1540991522745	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.AoNJia7FPoid"
+1540991528550	Marionette	INFO	Listening on port 46407
+1540991528606	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540991528754	Marionette	DEBUG	[2147483649] Frame script loaded
+1540991528763	Marionette	DEBUG	[2147483649] Frame script registered
+1540991528859	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540991528913	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+JavaScript error: http://maxcdn.bootstrapcdn.com/bootstrap/3.3.0/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+1540991530228	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://localhost/My_web/dmw/
+1540991530292	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://localhost/My_web/dmw/
+1540991531195	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for http://localhost/My_web/dmw/
+1540991531999	Marionette	DEBUG	[2147483649] Received DOM event pagehide for http://localhost/My_web/dmw/
+1540991532001	Marionette	DEBUG	[2147483649] Received DOM event unload for http://localhost/My_web/dmw/
+JavaScript error: http://maxcdn.bootstrapcdn.com/bootstrap/3.3.0/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+1540991532141	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://localhost/My_web/dmw/
+1540991532163	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://localhost/My_web/dmw/
+1540991532372	Marionette	INFO	Stopped listening on port 46407
+[Parent 23787, Gecko_IOThread] WARNING: pipe error (76): Connection reset by peer: file /build/firefox-IVlCbR/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1540991546035	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.gZXtOFWEZ8OT"
+1540991551830	Marionette	INFO	Listening on port 39055
+1540991551894	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540991552053	Marionette	DEBUG	[2147483649] Frame script loaded
+1540991552061	Marionette	DEBUG	[2147483649] Frame script registered
+1540991552119	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540991552156	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+JavaScript error: http://maxcdn.bootstrapcdn.com/bootstrap/3.3.0/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+1540991556363	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://localhost/My_web/dmw/
+1540991556383	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://localhost/My_web/dmw/
+1540991557442	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for http://localhost/My_web/dmw/
+1540991558246	Marionette	DEBUG	[2147483649] Received DOM event pagehide for http://localhost/My_web/dmw/
+1540991558249	Marionette	DEBUG	[2147483649] Received DOM event unload for http://localhost/My_web/dmw/
+JavaScript error: http://maxcdn.bootstrapcdn.com/bootstrap/3.3.0/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+1540991558400	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://localhost/My_web/dmw/
+1540991558421	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://localhost/My_web/dmw/
+1540991558648	Marionette	INFO	Stopped listening on port 39055
+[Parent 24009, Gecko_IOThread] WARNING: pipe error (75): Connection reset by peer: file /build/firefox-IVlCbR/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1540991588047	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.ieJqKE8cxXjx"
+1540991593898	Marionette	INFO	Listening on port 44213
+1540991594026	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540991594182	Marionette	DEBUG	[2147483649] Frame script loaded
+1540991594191	Marionette	DEBUG	[2147483649] Frame script registered
+1540991594321	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540991594425	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+JavaScript error: http://maxcdn.bootstrapcdn.com/bootstrap/3.3.0/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+1540991595567	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://localhost/My_web/dmw/
+1540991595629	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://localhost/My_web/dmw/
+1540991596582	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for http://localhost/My_web/dmw/
+1540991597450	Marionette	DEBUG	[2147483649] Received DOM event pagehide for http://localhost/My_web/dmw/
+1540991597452	Marionette	DEBUG	[2147483649] Received DOM event unload for http://localhost/My_web/dmw/
+JavaScript error: http://maxcdn.bootstrapcdn.com/bootstrap/3.3.0/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+1540991597596	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://localhost/My_web/dmw/
+1540991597615	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://localhost/My_web/dmw/
+1540991597818	Marionette	INFO	Stopped listening on port 44213
+[Parent 24229, Gecko_IOThread] WARNING: pipe error (75): Connection reset by peer: file /build/firefox-IVlCbR/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1540991993245	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.SFvfTDCCqhRS"
+1540991998971	Marionette	INFO	Listening on port 40731
+1540991999026	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540991999190	Marionette	DEBUG	[2147483649] Frame script loaded
+1540991999205	Marionette	DEBUG	[2147483649] Frame script registered
+1540991999335	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540991999387	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+JavaScript error: http://maxcdn.bootstrapcdn.com/bootstrap/3.3.0/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+1540992000691	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://localhost/My_web/dmw/
+1540992000710	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://localhost/My_web/dmw/
+1540992001618	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for http://localhost/My_web/dmw/
+1540992002455	Marionette	DEBUG	[2147483649] Received DOM event pagehide for http://localhost/My_web/dmw/
+1540992002456	Marionette	DEBUG	[2147483649] Received DOM event unload for http://localhost/My_web/dmw/
+JavaScript error: http://maxcdn.bootstrapcdn.com/bootstrap/3.3.0/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+1540992002613	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://localhost/My_web/dmw/
+1540992002634	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://localhost/My_web/dmw/
+1540992002836	Marionette	INFO	Stopped listening on port 40731
+[Parent 24565, Gecko_IOThread] WARNING: pipe error (77): Connection reset by peer: file /build/firefox-IVlCbR/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1540992007719	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.MuxTHrHtWLbC"
+1540992013566	Marionette	INFO	Listening on port 42821
+1540992013671	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540992013836	Marionette	DEBUG	[2147483649] Frame script loaded
+1540992013860	Marionette	DEBUG	[2147483649] Frame script registered
+1540992014026	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540992014073	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+JavaScript error: http://maxcdn.bootstrapcdn.com/bootstrap/3.3.0/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+1540992015245	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://localhost/My_web/dmw/
+1540992015260	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://localhost/My_web/dmw/
+1540992016163	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for http://localhost/My_web/dmw/
+1540992016999	Marionette	DEBUG	[2147483649] Received DOM event pagehide for http://localhost/My_web/dmw/
+1540992017001	Marionette	DEBUG	[2147483649] Received DOM event unload for http://localhost/My_web/dmw/
+JavaScript error: http://maxcdn.bootstrapcdn.com/bootstrap/3.3.0/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+1540992017146	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://localhost/My_web/dmw/
+1540992017165	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://localhost/My_web/dmw/
+1540992017382	Marionette	INFO	Stopped listening on port 42821
+[Parent 24776, Gecko_IOThread] WARNING: pipe error (76): Connection reset by peer: file /build/firefox-IVlCbR/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1540992694398	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.r8HoTYTeVV0x"
+1540992701089	Marionette	INFO	Listening on port 39325
+1540992701143	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540992701311	Marionette	DEBUG	[2147483649] Frame script loaded
+1540992701340	Marionette	DEBUG	[2147483649] Frame script registered
+1540992701478	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540992701545	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+JavaScript error: http://maxcdn.bootstrapcdn.com/bootstrap/3.3.0/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+1540992705342	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://localhost/My_web/dmw/
+1540992705361	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://localhost/My_web/dmw/
+1540992705554	Marionette	INFO	Stopped listening on port 39325
+1540992826583	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.okb1jCWIitsz"
+1540992834494	Marionette	INFO	Listening on port 40119
+1540992834545	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540992834702	Marionette	DEBUG	[2147483649] Frame script loaded
+1540992834710	Marionette	DEBUG	[2147483649] Frame script registered
+1540992834843	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540992834895	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+JavaScript error: http://maxcdn.bootstrapcdn.com/bootstrap/3.3.0/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+1540992836057	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://localhost/My_web/dmw/
+1540992836072	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://localhost/My_web/dmw/
+1540992837049	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for http://localhost/My_web/dmw/
+1540992840400	Marionette	DEBUG	[2147483649] Received DOM event pagehide for http://localhost/My_web/dmw/
+1540992840402	Marionette	DEBUG	[2147483649] Received DOM event unload for http://localhost/My_web/dmw/
+JavaScript error: http://maxcdn.bootstrapcdn.com/bootstrap/3.3.0/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+1540992840554	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://localhost/My_web/dmw/
+1540992840577	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://localhost/My_web/dmw/
+1540992851648	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for http://localhost/My_web/dmw/
+1540992852439	Marionette	DEBUG	[2147483649] Received DOM event pagehide for http://localhost/My_web/dmw/
+1540992852441	Marionette	DEBUG	[2147483649] Received DOM event unload for http://localhost/My_web/dmw/
+JavaScript error: http://maxcdn.bootstrapcdn.com/bootstrap/3.3.0/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+1540992852600	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://localhost/My_web/dmw/
+1540992852620	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://localhost/My_web/dmw/
+1540992863785	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1540992874615	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for http://localhost/My_web/dmw/
+1540992875382	Marionette	DEBUG	[2147483649] Received DOM event pagehide for http://localhost/My_web/dmw/
+1540992875383	Marionette	DEBUG	[2147483649] Received DOM event unload for http://localhost/My_web/dmw/
+JavaScript error: http://maxcdn.bootstrapcdn.com/bootstrap/3.3.0/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+1540992875549	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://localhost/My_web/dmw/
+1540992875559	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://localhost/My_web/dmw/
+1540992886472	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for http://localhost/My_web/dmw/
+1540992887309	Marionette	DEBUG	[2147483649] Received DOM event pagehide for http://localhost/My_web/dmw/
+1540992887310	Marionette	DEBUG	[2147483649] Received DOM event unload for http://localhost/My_web/dmw/
+JavaScript error: http://maxcdn.bootstrapcdn.com/bootstrap/3.3.0/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+1540992887444	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://localhost/My_web/dmw/
+1540992887451	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://localhost/My_web/dmw/
+1540992888335	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for http://localhost/My_web/dmw/
+1540992889182	Marionette	DEBUG	[2147483649] Received DOM event pagehide for http://localhost/My_web/dmw/
+1540992889183	Marionette	DEBUG	[2147483649] Received DOM event unload for http://localhost/My_web/dmw/
+JavaScript error: http://maxcdn.bootstrapcdn.com/bootstrap/3.3.0/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+1540992889314	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://localhost/My_web/dmw/
+1540992889328	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://localhost/My_web/dmw/
+1540992899583	Marionette	INFO	Stopped listening on port 40119
+1540993045111	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.UOyae2TN475N"
+1540993051160	Marionette	INFO	Listening on port 36721
+1540993051252	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540993051409	Marionette	DEBUG	[2147483649] Frame script loaded
+1540993051414	Marionette	DEBUG	[2147483649] Frame script registered
+1540993051524	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540993051576	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+JavaScript error: http://maxcdn.bootstrapcdn.com/bootstrap/3.3.0/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+1540993052739	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://localhost/My_web/dmw/
+1540993052813	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://localhost/My_web/dmw/
+1540993053770	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for http://localhost/My_web/dmw/
+1540993054554	Marionette	DEBUG	[2147483649] Received DOM event pagehide for http://localhost/My_web/dmw/
+1540993054556	Marionette	DEBUG	[2147483649] Received DOM event unload for http://localhost/My_web/dmw/
+JavaScript error: http://maxcdn.bootstrapcdn.com/bootstrap/3.3.0/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+1540993054706	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://localhost/My_web/dmw/
+1540993054728	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://localhost/My_web/dmw/
+1540993065772	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for http://localhost/My_web/dmw/
+1540993066527	Marionette	DEBUG	[2147483649] Received DOM event pagehide for http://localhost/My_web/dmw/
+1540993066530	Marionette	DEBUG	[2147483649] Received DOM event unload for http://localhost/My_web/dmw/
+JavaScript error: http://maxcdn.bootstrapcdn.com/bootstrap/3.3.0/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+1540993066693	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://localhost/My_web/dmw/
+1540993066704	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://localhost/My_web/dmw/
+1540993077837	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1540993088695	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for http://localhost/My_web/dmw/
+1540993089441	Marionette	DEBUG	[2147483649] Received DOM event pagehide for http://localhost/My_web/dmw/
+1540993089442	Marionette	DEBUG	[2147483649] Received DOM event unload for http://localhost/My_web/dmw/
+JavaScript error: http://maxcdn.bootstrapcdn.com/bootstrap/3.3.0/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+1540993089605	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://localhost/My_web/dmw/
+1540993089619	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://localhost/My_web/dmw/
+1540993100492	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for http://localhost/My_web/dmw/
+1540993101342	Marionette	DEBUG	[2147483649] Received DOM event pagehide for http://localhost/My_web/dmw/
+1540993101343	Marionette	DEBUG	[2147483649] Received DOM event unload for http://localhost/My_web/dmw/
+JavaScript error: http://maxcdn.bootstrapcdn.com/bootstrap/3.3.0/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+1540993101489	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://localhost/My_web/dmw/
+1540993101495	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://localhost/My_web/dmw/
+1540993102343	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for http://localhost/My_web/dmw/
+1540993103139	Marionette	DEBUG	[2147483649] Received DOM event pagehide for http://localhost/My_web/dmw/
+1540993103140	Marionette	DEBUG	[2147483649] Received DOM event unload for http://localhost/My_web/dmw/
+JavaScript error: http://maxcdn.bootstrapcdn.com/bootstrap/3.3.0/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+1540993103274	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://localhost/My_web/dmw/
+1540993103289	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://localhost/My_web/dmw/
+1540993113517	Marionette	INFO	Stopped listening on port 36721
+[Parent 26323, Gecko_IOThread] WARNING: pipe error (76): Connection reset by peer: file /build/firefox-IVlCbR/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1540993322882	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.sHkh622HHQEO"
+1540993328707	Marionette	INFO	Listening on port 40383
+1540993328753	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540993328924	Marionette	DEBUG	[2147483649] Frame script loaded
+1540993328929	Marionette	DEBUG	[2147483649] Frame script registered
+1540993329066	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540993329255	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1540993329293	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://localhost/My_web/dmw/
+1540993329405	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://localhost/My_web/dmw/
+1540993334600	Marionette	INFO	Stopped listening on port 40383
+[Parent 26679, Gecko_IOThread] WARNING: pipe error (75): Connection reset by peer: file /build/firefox-IVlCbR/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1540993410524	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.H5aS0Qqh3peh"
+1540993416406	Marionette	INFO	Listening on port 42401
+1540993416504	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540993416666	Marionette	DEBUG	[2147483649] Frame script loaded
+1540993416715	Marionette	DEBUG	[2147483649] Frame script registered
+1540993416913	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540993416952	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+JavaScript error: http://maxcdn.bootstrapcdn.com/bootstrap/3.3.0/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+1540993418188	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://localhost/My_web/dmw/
+1540993418245	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://localhost/My_web/dmw/
+1540993419138	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for http://localhost/My_web/dmw/
+1540993419908	Marionette	DEBUG	[2147483649] Received DOM event pagehide for http://localhost/My_web/dmw/
+1540993419910	Marionette	DEBUG	[2147483649] Received DOM event unload for http://localhost/My_web/dmw/
+JavaScript error: http://maxcdn.bootstrapcdn.com/bootstrap/3.3.0/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+1540993420054	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://localhost/My_web/dmw/
+1540993420075	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://localhost/My_web/dmw/
+1540993420294	Marionette	INFO	Stopped listening on port 42401
+[Parent 26890, Gecko_IOThread] WARNING: pipe error (76): Connection reset by peer: file /build/firefox-IVlCbR/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1540993589095	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.1EKwoCetB8x0"
+1540993595191	Marionette	INFO	Listening on port 42789
+1540993595280	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540993595441	Marionette	DEBUG	[2147483649] Frame script loaded
+1540993595465	Marionette	DEBUG	[2147483649] Frame script registered
+1540993595555	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540993595607	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+JavaScript error: http://maxcdn.bootstrapcdn.com/bootstrap/3.3.0/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+1540993596829	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://localhost/My_web/dmw/
+1540993596845	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://localhost/My_web/dmw/
+1540993597806	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for http://localhost/My_web/dmw/
+1540993598760	Marionette	DEBUG	[2147483649] Received DOM event pagehide for http://localhost/My_web/dmw/
+1540993598762	Marionette	DEBUG	[2147483649] Received DOM event unload for http://localhost/My_web/dmw/
+JavaScript error: http://maxcdn.bootstrapcdn.com/bootstrap/3.3.0/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+1540993598925	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://localhost/My_web/dmw/
+1540993598937	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://localhost/My_web/dmw/
+1540993599922	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for http://localhost/My_web/dmw/
+1540993600738	Marionette	DEBUG	[2147483649] Received DOM event pagehide for http://localhost/My_web/dmw/
+1540993600740	Marionette	DEBUG	[2147483649] Received DOM event unload for http://localhost/My_web/dmw/
+JavaScript error: http://maxcdn.bootstrapcdn.com/bootstrap/3.3.0/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+1540993600903	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://localhost/My_web/dmw/
+1540993600922	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://localhost/My_web/dmw/
+1540993602128	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1540993603072	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for http://localhost/My_web/dmw/
+1540993603849	Marionette	DEBUG	[2147483649] Received DOM event pagehide for http://localhost/My_web/dmw/
+1540993603852	Marionette	DEBUG	[2147483649] Received DOM event unload for http://localhost/My_web/dmw/
+JavaScript error: http://maxcdn.bootstrapcdn.com/bootstrap/3.3.0/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+1540993604012	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://localhost/My_web/dmw/
+1540993604028	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://localhost/My_web/dmw/
+1540993604950	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for http://localhost/My_web/dmw/
+1540993605728	Marionette	DEBUG	[2147483649] Received DOM event pagehide for http://localhost/My_web/dmw/
+1540993605730	Marionette	DEBUG	[2147483649] Received DOM event unload for http://localhost/My_web/dmw/
+JavaScript error: http://maxcdn.bootstrapcdn.com/bootstrap/3.3.0/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+1540993605862	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://localhost/My_web/dmw/
+1540993605889	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://localhost/My_web/dmw/
+1540993606931	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for http://localhost/My_web/dmw/
+1540993607707	Marionette	DEBUG	[2147483649] Received DOM event pagehide for http://localhost/My_web/dmw/
+1540993607709	Marionette	DEBUG	[2147483649] Received DOM event unload for http://localhost/My_web/dmw/
+JavaScript error: http://maxcdn.bootstrapcdn.com/bootstrap/3.3.0/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+1540993607841	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://localhost/My_web/dmw/
+1540993607860	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://localhost/My_web/dmw/
+1540993608126	Marionette	INFO	Stopped listening on port 42789
+[Parent 27153, Gecko_IOThread] WARNING: pipe error (69): Connection reset by peer: file /build/firefox-IVlCbR/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1540993735773	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.HzhHi4EvQLLS"
+1540993742292	Marionette	INFO	Listening on port 38223
+1540993742337	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540993742498	Marionette	DEBUG	[2147483649] Frame script loaded
+1540993742512	Marionette	DEBUG	[2147483649] Frame script registered
+1540993742668	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540993742724	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+JavaScript error: http://maxcdn.bootstrapcdn.com/bootstrap/3.3.0/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+1540993743853	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://localhost/My_web/dmw/
+1540993743869	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://localhost/My_web/dmw/
+1540993744781	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for http://localhost/My_web/dmw/
+1540993745627	Marionette	DEBUG	[2147483649] Received DOM event pagehide for http://localhost/My_web/dmw/
+1540993745629	Marionette	DEBUG	[2147483649] Received DOM event unload for http://localhost/My_web/dmw/
+JavaScript error: http://maxcdn.bootstrapcdn.com/bootstrap/3.3.0/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+1540993745769	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://localhost/My_web/dmw/
+1540993745788	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://localhost/My_web/dmw/
+1540993746735	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for http://localhost/My_web/dmw/
+1540993747491	Marionette	DEBUG	[2147483649] Received DOM event pagehide for http://localhost/My_web/dmw/
+1540993747494	Marionette	DEBUG	[2147483649] Received DOM event unload for http://localhost/My_web/dmw/
+JavaScript error: http://maxcdn.bootstrapcdn.com/bootstrap/3.3.0/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+1540993747630	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://localhost/My_web/dmw/
+1540993747657	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://localhost/My_web/dmw/
+1540993747956	Marionette	INFO	Stopped listening on port 38223
+[Parent 27422, Gecko_IOThread] WARNING: pipe error (46): Connection reset by peer: file /build/firefox-IVlCbR/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1540993782143	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.lKOGZFn0KncV"
+1540993787982	Marionette	INFO	Listening on port 40819
+1540993788146	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540993788304	Marionette	DEBUG	[2147483649] Frame script loaded
+1540993788353	Marionette	DEBUG	[2147483649] Frame script registered
+1540993788431	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540993788477	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+JavaScript error: http://maxcdn.bootstrapcdn.com/bootstrap/3.3.0/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+1540993789692	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://localhost/My_web/dmw/
+1540993789710	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://localhost/My_web/dmw/
+1540993790587	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for http://localhost/My_web/dmw/
+1540993791397	Marionette	DEBUG	[2147483649] Received DOM event pagehide for http://localhost/My_web/dmw/
+1540993791399	Marionette	DEBUG	[2147483649] Received DOM event unload for http://localhost/My_web/dmw/
+JavaScript error: http://maxcdn.bootstrapcdn.com/bootstrap/3.3.0/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+1540993791555	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://localhost/My_web/dmw/
+1540993791564	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://localhost/My_web/dmw/
+1540993792482	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for http://localhost/My_web/dmw/
+1540993793270	Marionette	DEBUG	[2147483649] Received DOM event pagehide for http://localhost/My_web/dmw/
+1540993793274	Marionette	DEBUG	[2147483649] Received DOM event unload for http://localhost/My_web/dmw/
+JavaScript error: http://maxcdn.bootstrapcdn.com/bootstrap/3.3.0/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+1540993793412	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://localhost/My_web/dmw/
+1540993793431	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://localhost/My_web/dmw/
+1540993794776	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1540993795789	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for http://localhost/My_web/dmw/
+1540993796581	Marionette	DEBUG	[2147483649] Received DOM event pagehide for http://localhost/My_web/dmw/
+1540993796584	Marionette	DEBUG	[2147483649] Received DOM event unload for http://localhost/My_web/dmw/
+JavaScript error: http://maxcdn.bootstrapcdn.com/bootstrap/3.3.0/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+1540993796743	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://localhost/My_web/dmw/
+1540993796754	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://localhost/My_web/dmw/
+1540993797716	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for http://localhost/My_web/dmw/
+1540993798522	Marionette	DEBUG	[2147483649] Received DOM event pagehide for http://localhost/My_web/dmw/
+1540993798526	Marionette	DEBUG	[2147483649] Received DOM event unload for http://localhost/My_web/dmw/
+JavaScript error: http://maxcdn.bootstrapcdn.com/bootstrap/3.3.0/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+1540993798650	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://localhost/My_web/dmw/
+1540993798661	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://localhost/My_web/dmw/
+1540993799675	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for http://localhost/My_web/dmw/
+1540993800444	Marionette	DEBUG	[2147483649] Received DOM event pagehide for http://localhost/My_web/dmw/
+1540993800446	Marionette	DEBUG	[2147483649] Received DOM event unload for http://localhost/My_web/dmw/
+JavaScript error: http://maxcdn.bootstrapcdn.com/bootstrap/3.3.0/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+1540993800574	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://localhost/My_web/dmw/
+1540993800585	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://localhost/My_web/dmw/
+1540993800862	Marionette	INFO	Stopped listening on port 40819
+[Parent 27650, Gecko_IOThread] WARNING: pipe error (75): Connection reset by peer: file /build/firefox-IVlCbR/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
