@@ -14,7 +14,16 @@ library(caret)
 #NAIVE BAYES BLINDX 0.6510417
 raw=read.csv("diabetes.csv")
 #without cata 0.7292
+
 raw$Outcome=sapply(raw$Outcome,as.factor)
+ 
+for(i in 2:8){
+(raw[which(raw[,i]==0),i]=NA)
+}
+raw$Outcome=sapply(raw$Outcome,as.factor)
+ bagged=preProcess(raw,method="bagImpute")
+ bagged=predict(bagged,raw)
+ raw=bagged   
 index=sample(nrow(raw),nrow(raw)*0.75)
 train=raw[index,]
 test=raw[-index,]

@@ -30,14 +30,14 @@ $Age = $_POST["Age"];
                 <br/>SkinThickness: <input type="number" name="SkinThickness" class="txt" required>
                 <br/>Insulin: <input type="number" name="Insulin" class="txt"required>
                 <br/>BMI: <input type="number" name="BMI" class="txt" required>
-                <br/>DiabetesPedigreeFunction: <input type="number" name="DiabetesPedigreeFunction" class="txt"required>
+                <br/>DiabetesPedigreeFunction: <input type="decimil" name="DiabetesPedigreeFunction" class="txt"required>
                 <br/>Age: <input type="number" name="Age" class="txt" required>
                 <br/><input type="submit" value="submit" name="submit" class="txt2" required>
                 </form>
                 </div>
        </div>
     </div>
-    <div class="col-md-4">
+    <div class="col-md-6">
                 
 <?php
 if (isset($_POST['submit']))
@@ -55,7 +55,7 @@ if (isset($_POST['submit']))
   
   
   $ans = exec("Rscript runme.R $Pregnancies $Glucose $BloodPressure $SkinThickness $Insulin $BMI $DiabetesPedigreeFunction $Age");
-  echo "<br />Naive Baye's <br />";
+  echo "</br><STRONG>Naive Baye's</STRONG>";
   echo "<br />You have P(E)=$ans of testing Postive for Diabetes <br />";
   if($ans>0.5){echo "You should consult a doctor<br />";}
   else if($ans<=0.5){echo "It dosen't look like it is necessary to consult a doctor<br />";}
