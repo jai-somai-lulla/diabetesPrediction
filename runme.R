@@ -37,13 +37,13 @@ if (length(args)==8) {
   names(x)=names(raw[,(1:8)])  
   ans=predict(model,x)
   prob=predict(model,x,type="raw")
-    if(ans==1){
-        print(paste("Positive ",ans," <br />","Probablity Positive==>",prob[1,1]," <br /> Probablity Negative==>",prob[1,2],"<br />"))
-        }else{
-        print(paste("Negative ",ans,"<br />","Probablity Positive==>",prob[1,1]," <br /> Probablity Negative==>",prob[1,2],"<br />"))
-        }
+   # if(ans==1){
+    #    print(paste("Positive ",ans," <br />","Probablity Positive==>",prob[1,1]," <br /> Probablity Negative==>",prob[1,2],"<br />"))
+     #   }else{
+      #  print(paste("Negative ",ans,"<br />","Probablity Positive==>",prob[1,1]," <br /> Probablity Negative==>",prob[1,2],"<br />"))
+       # }
       #print(paste("Probablity Positive==>",prob[1,1]," <br /> Probablity Negative==>",prob[1,2],"<br />"))  
-        
+       print(prob[1,1]) 
 }else{
 print("Insufficinct Input")
 }
