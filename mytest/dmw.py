@@ -2,7 +2,8 @@ import unittest
 import csv
 from selenium import webdriver
 from selenium.common.exceptions import NoSuchElementException
-
+import mysql.connector
+import time 
 class Browse(unittest.TestCase):
     def setUp(self):  
         self.count=0;
@@ -26,7 +27,15 @@ class Browse(unittest.TestCase):
     
       filename = 'test.csv'
       line_number = 1
-      for line_number in range(6):  
+      
+      mydb = mysql.connector.connect(
+        host="localhost",
+        user="stark",
+        passwd="iron",
+        database="diabetes" 
+        )
+        
+      for line_number in range(2):  
         #with open(filename, 'rb') as f:
         with open(filename) as f:
             mycsv = csv.reader(f)
@@ -44,6 +53,18 @@ class Browse(unittest.TestCase):
         count=self.count
         path=self.path
         driver = self.driver       
+        
+        
+        
+        
+        myb = mydb.cursor()     
+        myb.execute("select count(*) from records")  
+        print("Before Submit")
+        dbrowbefore= myb.fetchone()[0]
+        print(dbrowbefore)
+
+        
+        
         Pregnancies = driver.find_element_by_name("Pregnancies")
         Pregnancies.clear()
         Pregnancies.send_keys(p)
@@ -87,6 +108,8 @@ class Browse(unittest.TestCase):
         driver.get_screenshot_as_file(ans)
         count += 1
  
+          
+        
         subber = driver.find_element_by_name('submit')
         subber.click()
         ans = path + repr(count)
@@ -95,8 +118,23 @@ class Browse(unittest.TestCase):
         count += 1
         ele=driver.find_element_by_id("outcome")
         ans=ele.get_attribute("value")
+     
+     
+        time.sleep(2)
+        
+        mycursor = mydb.cursor()     
+        mycursor.execute("select count(*) from records")  
+        print("After Submit")
+        dbrowafter= mycursor.fetchone()[0]
+        print(dbrowafter)
+        
         with self.subTest(i=line_number):    
-            self.assertEqual(ans,outcome)
+          self.assertEqual(dbrowafter,(dbrowbefore))
+          
+
+        #with self.subTest(i=line_number):    
+         #   self.assertEqual(ans,outcome)
+            
         #try:
             #with self.subTest(i=line_number):    
              #   self.assertEqual(driver.find_element_by_id("positive").size(),outcome)            
